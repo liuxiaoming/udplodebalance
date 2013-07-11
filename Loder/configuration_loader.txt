@@ -1,0 +1,7 @@
+id 1001
+client_udp_port 3456
+server_udp_port 6543
+server_sum 2
+server_id server_udp_port
+101 6543
+201 6543
